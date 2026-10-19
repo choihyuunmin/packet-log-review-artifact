@@ -1,0 +1,6 @@
+SA_Model,SR_Mean,SR_SD,Latency_Mean,Latency_SD,Tokens_Mean,Tokens_SD,Num_Iterations
+gpt-5,0.6583,,30.3445,,1988.87,,1
+gemini-3-pro-preview,0.65,,92.4786,,1948.63,,1
+llama3,0.85,,21.37,,1634.24,,1
+deepseek-r1,0.78,,20.55,,1539.09,,1
+qwen3,0.86,,29.08,,1805.51,,1
